@@ -17,30 +17,59 @@ I am a QA professional focused on software quality, test strategy, API testing, 
 
 ## Tech Stack
 
+## `~/fuad/tech-stack`
 
-## 🧪 Testing & Automation
+```yaml
+profile:
+  role: "QA Lead"
+  focus:
+    - Quality Engineering
+    - Test Automation
+    - API Validation
+```
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+### `01` — Test Automation
 
-## 🌐 API Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-0A0A0A?style=flat&logo=playwright&logoColor=45BA4B" alt="Playwright" />
+  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+</p>
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+### `02` — API Engineering
 
-## ⚙️ DevOps & Monitoring
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-0A0A0A?style=flat&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/OpenAPI-0A0A0A?style=flat&logo=swagger&logoColor=85EA2D" alt="OpenAPI" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+### `03` — Performance & Observability
 
-## 📈 Performance Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/k6-0A0A0A?style=flat&logo=k6&logoColor=7D64FF" alt="k6" />
+  <img src="https://img.shields.io/badge/JMeter-0A0A0A?style=flat&logo=apachejmeter&logoColor=D22128" alt="Apache JMeter" />
+  <img src="https://img.shields.io/badge/Grafana-0A0A0A?style=flat&logo=grafana&logoColor=F46800" alt="Grafana" />
+</p>
 
-![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
-![Apache JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+### `04` — Engineering Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=flat&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-0A0A0A?style=flat&logo=jenkins&logoColor=D24939" alt="Jenkins" />
+</p>
+
+```bash
+$ qa --principles
+
+> quality_first
+> risk_based_testing
+> continuous_improvement
+> reliable_automation
+
+$ echo "Build quality. Verify everything."
+```
+
 
 
 ## QA Expertise
