@@ -31,11 +31,13 @@ profile:
 ### `01` — Test Automation
 
 
+
 <p align="left">
-  <img src="https://cdn.simpleicons.org/playwright/45BA4B" alt="Playwright" height="32" />
+  <img src="https://raw.githubusercontent.com/microsoft/playwright/main/packages/dashboard/public/playwright-logo.svg" alt="Playwright" height="32" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="32" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="32" />
 </p>
+
 
 
 
