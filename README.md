@@ -31,7 +31,7 @@ profile:
 ### `01` — Test Automation
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Playwright-0A0A0A?style=flat&logo=playwright&logoColor=45BA4B" alt="Playwright" />
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
   <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </p>
