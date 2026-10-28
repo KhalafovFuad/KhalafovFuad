@@ -30,11 +30,13 @@ profile:
 
 ### `01` — Test Automation
 
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Playwright-0A0A0A?style=flat&logo=playwright&logoColor=45BA4B" alt="Playwright" />
-  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/playwright/45BA4B" alt="Playwright" height="32" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="32" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="32" />
 </p>
+
 
 
 ### `02` — API Engineering
